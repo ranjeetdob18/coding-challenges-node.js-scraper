@@ -6,7 +6,7 @@ To run this sample you will need the following:
 
 * Install Node.js from http://nodejs.org/
 
-Next, clone the sample repo and install the NPM.
+Next, clone the sample repo.
 From your shell or command line:
 ```
 $ git clone https://github.com/ranjeetdob18/coding-challenges-node.js-scraper.git
