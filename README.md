@@ -12,6 +12,9 @@ From your shell or command line:
 $ git clone https://github.com/ranjeetdob18/coding-challenges-node.js-scraper.git
 $ cd your directory
 ```
+
+Next, change file location according to your system 
+Mac, Linux, XP
 ## Run the application
 
 ```
